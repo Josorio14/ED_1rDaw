@@ -3,6 +3,7 @@ Progarama que multiplica dos valores entre si y retorna un resultado*/
 
 public class exemple{
 	public static void main(String[]args){
+
 	
 	int a;
 	int b;
