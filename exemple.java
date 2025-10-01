@@ -1,12 +1,16 @@
-//Comentari programa github
-//segundo comentario
-/*Esto es un comentario de mas de una linea Ex3.3 en la rama comentaris
-Esto es otro comentario de mas de una linea en el archivo exemple.java*/
+/* ED_Ejercicio 3.4_Sebastian_Osorio
+Progarama que multiplica dos valores entre si y retorna un resultado*/
 
 public class exemple{
 	public static void main(String[]args){
-		a-b;
-//Comentari en català
+	
+	int a;
+	int b;
+	int resultado;
+
+	resultado = a * b;
+
+	System.out.println("El resultado de la multiplicación es: "+resultado);
 	}
 	
 }
